@@ -1,5 +1,5 @@
 
-//This is Nik's main file for playin' around with the PEPS library 
+//This is Nik's main file for playin' around with the PEPS library.
 
 #include <iostream>
 
