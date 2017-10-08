@@ -1,15 +1,10 @@
-//
-//  main.cpp
-//  NG_PEPSforLibrary
-//
-//  Created by Nik Gourianov on 08.10.2017.
-//  Copyright © 2017 Nik Gourianov. All rights reserved.
-//
+
+//This is Nik's main file for playin' around with the PEPS library 
 
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    printf( "Hello, World!\n");
     return 0;
 }

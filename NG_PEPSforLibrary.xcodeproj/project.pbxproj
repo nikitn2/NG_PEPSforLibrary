@@ -25,6 +25,34 @@
 /* Begin PBXFileReference section */
 		3A1C219D1F8A91370048860F /* NG_PEPSforLibrary */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NG_PEPSforLibrary; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A1C21A01F8A91370048860F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3A1C21A71F8A918E0048860F /* MPO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPO.h; sourceTree = "<group>"; };
+		3A1C21A81F8A918E0048860F /* BoseHubbardModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoseHubbardModel.h; sourceTree = "<group>"; };
+		3A1C21A91F8A918E0048860F /* HubbardModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HubbardModel.h; sourceTree = "<group>"; };
+		3A1C21AA1F8A918E0048860F /* GroundState2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroundState2D.h; sourceTree = "<group>"; };
+		3A1C21AB1F8A918E0048860F /* IsingModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IsingModel.h; sourceTree = "<group>"; };
+		3A1C21AC1F8A918E0048860F /* SpinlessCoulombModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpinlessCoulombModel.h; sourceTree = "<group>"; };
+		3A1C21AD1F8A918E0048860F /* TimeEvolution.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimeEvolution.h; sourceTree = "<group>"; };
+		3A1C21AE1F8A918E0048860F /* CoulombModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoulombModel.h; sourceTree = "<group>"; };
+		3A1C21AF1F8A918E0048860F /* Operator2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Operator2D.h; sourceTree = "<group>"; };
+		3A1C21B01F8A918E0048860F /* IsingModel2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IsingModel2D.h; sourceTree = "<group>"; };
+		3A1C21B11F8A918E0048860F /* HeisenbergModel2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeisenbergModel2D.h; sourceTree = "<group>"; };
+		3A1C21B21F8A918E0048860F /* Operator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Operator.h; sourceTree = "<group>"; };
+		3A1C21B31F8A918E0048860F /* Hamiltonian2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hamiltonian2D.h; sourceTree = "<group>"; };
+		3A1C21B41F8A918E0048860F /* HubbardModel2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HubbardModel2.h; sourceTree = "<group>"; };
+		3A1C21B51F8A918E0048860F /* Hamiltonian.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hamiltonian.h; sourceTree = "<group>"; };
+		3A1C21B61F8A918F0048860F /* SpinlessFermions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpinlessFermions.h; sourceTree = "<group>"; };
+		3A1C21B71F8A918F0048860F /* tJModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tJModel.h; sourceTree = "<group>"; };
+		3A1C21B81F8A918F0048860F /* Vector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vector.h; sourceTree = "<group>"; };
+		3A1C21B91F8A918F0048860F /* MathAuxiliary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathAuxiliary.h; sourceTree = "<group>"; };
+		3A1C21BA1F8A918F0048860F /* Matrix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Matrix.h; sourceTree = "<group>"; };
+		3A1C21BB1F8A918F0048860F /* Lapack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lapack.h; sourceTree = "<group>"; };
+		3A1C21BC1F8A918F0048860F /* PEPO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PEPO.h; sourceTree = "<group>"; };
+		3A1C21BD1F8A918F0048860F /* GroundState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroundState.h; sourceTree = "<group>"; };
+		3A1C21BE1F8A918F0048860F /* Tensor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tensor.h; sourceTree = "<group>"; };
+		3A1C21BF1F8A918F0048860F /* MPS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPS.h; sourceTree = "<group>"; };
+		3A1C21C01F8A918F0048860F /* TimeEvolution2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimeEvolution2D.h; sourceTree = "<group>"; };
+		3A1C21C11F8A91900048860F /* PEPS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PEPS.h; sourceTree = "<group>"; };
+		3A1C21C21F8A91900048860F /* ProductOperator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductOperator.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +85,34 @@
 		3A1C219F1F8A91370048860F /* NG_PEPSforLibrary */ = {
 			isa = PBXGroup;
 			children = (
+				3A1C21A81F8A918E0048860F /* BoseHubbardModel.h */,
+				3A1C21AE1F8A918E0048860F /* CoulombModel.h */,
+				3A1C21BD1F8A918F0048860F /* GroundState.h */,
+				3A1C21AA1F8A918E0048860F /* GroundState2D.h */,
+				3A1C21B51F8A918E0048860F /* Hamiltonian.h */,
+				3A1C21B31F8A918E0048860F /* Hamiltonian2D.h */,
+				3A1C21B11F8A918E0048860F /* HeisenbergModel2D.h */,
+				3A1C21A91F8A918E0048860F /* HubbardModel.h */,
+				3A1C21B41F8A918E0048860F /* HubbardModel2.h */,
+				3A1C21AB1F8A918E0048860F /* IsingModel.h */,
+				3A1C21B01F8A918E0048860F /* IsingModel2D.h */,
+				3A1C21BB1F8A918F0048860F /* Lapack.h */,
+				3A1C21B91F8A918F0048860F /* MathAuxiliary.h */,
+				3A1C21BA1F8A918F0048860F /* Matrix.h */,
+				3A1C21A71F8A918E0048860F /* MPO.h */,
+				3A1C21BF1F8A918F0048860F /* MPS.h */,
+				3A1C21B21F8A918E0048860F /* Operator.h */,
+				3A1C21AF1F8A918E0048860F /* Operator2D.h */,
+				3A1C21BC1F8A918F0048860F /* PEPO.h */,
+				3A1C21C11F8A91900048860F /* PEPS.h */,
+				3A1C21C21F8A91900048860F /* ProductOperator.h */,
+				3A1C21AC1F8A918E0048860F /* SpinlessCoulombModel.h */,
+				3A1C21B61F8A918F0048860F /* SpinlessFermions.h */,
+				3A1C21BE1F8A918F0048860F /* Tensor.h */,
+				3A1C21AD1F8A918E0048860F /* TimeEvolution.h */,
+				3A1C21C01F8A918F0048860F /* TimeEvolution2D.h */,
+				3A1C21B71F8A918F0048860F /* tJModel.h */,
+				3A1C21B81F8A918F0048860F /* Vector.h */,
 				3A1C21A01F8A91370048860F /* main.cpp */,
 			);
 			path = NG_PEPSforLibrary;
